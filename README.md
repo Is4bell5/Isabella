@@ -42,13 +42,14 @@ Here are some ideas to get you started:
 - 🤔 Me encataria aprender mas lenguajes de Programacion.
 - 💼 Soy muy amable.
 - 💬 Si necesitas ayuda,puedes contactarme !
-- 📫 Enviame correo a isabellasanchez1410@gmail.com[zamran.butt.1@gmail.com](mailto:zamran.butt.1@gmail.com).
-- 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1PxlxLA6vGXslYmwybcA_dlr4uQhq-tkm/view?usp=sharing) to get more info.
+- 📫 Enviame correo a isabellasanchez1410@gmail.com
 
 
 **Languages and Tools:**  
 
-
+<pag alinear="izquierda">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cs " />
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 
