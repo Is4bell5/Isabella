@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 
 <pag alinear="izquierda">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,java,php,css,html,mysql,github " />
+    <img src="https://skillicons.dev/icons?i=c,java,php,html,mysql,github " />
 
 <img src="https://github-readme-stats.vercel.app/api?username=ZamranxD&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Zamran's GitHub Stats">
 
