@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h3 title="hola"> holaaa💗, Soy Isaaaaa🌷!</h3>
+<h3 title="hola"> holaaa💗,𝐒𝐨𝐲 𝐈𝐬𝐚𝐚𝐚🌷!</h3>
 
 </a>
 <a href=https://www.instagram.com/lisa_ials?igsh=dG1rM3dveXZndm52>
@@ -30,19 +30,19 @@ Here are some ideas to get you started:
 <br />
 <br />
 
-A **Estudio Programación** 💻 from Lahore, Pakistan.
+**𝓔𝓼𝓽𝓾𝓭𝓲𝓸 𝓟𝓻𝓸𝓰𝓻𝓪𝓶𝓪𝓬𝓲𝓸𝓷** 💻 Mexico.
  <!-- Currently, I'm a Community Team Member 🙍🏽‍♂️ [@CallmeMehdi](https://github.com/CallmeMehdi), Kaggler 👨🏽‍💻 [@Kaggle](https://www.kaggle.com/mehdimabrouki), and an Artificial Intelligence intern 👨🏽‍💼.  -->
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-**About Me!**
+**ᴰᵃᵗᵒˢ ˢᵒᵇʳᵉ ᵐⁱ!**
 
-- 👨🏽‍💻 I’m currently working as a TSA at Nixxe Solutions.
-- 🌱 I’m currently exploring Python with a big interest in Web Scraping and Data Visualization. 
-- 🤔 My interests are web-automation, video processing and developing some useful and cool stuff xD
-- 💼 I’m pursuing a Bachelor's degree in Computer Science.
-- 💬 Ask me about anything, I love to answer!
-- 📫 Email me at [zamran.butt.1@gmail.com](mailto:zamran.butt.1@gmail.com).
+- 👨🏽‍💻 Actualmente estudio Programacion.
+- 🌱 Cada dia aprendo cosas nuevas. 
+- 🤔 Me encataria aprender mas lenguajes de Programacion.
+- 💼 Soy muy amable.
+- 💬 Si necesitas ayuda,puedes contactarme !
+- 📫 Enviame correo a isabellasanchez1410@gmail.com[zamran.butt.1@gmail.com](mailto:zamran.butt.1@gmail.com).
 - 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1PxlxLA6vGXslYmwybcA_dlr4uQhq-tkm/view?usp=sharing) to get more info.
 
 
