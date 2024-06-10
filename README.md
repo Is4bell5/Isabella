@@ -14,19 +14,19 @@
 <br />
 <br />
 
-**𝓔𝓼𝓽𝓾𝓭𝓲𝓸 𝓟𝓻𝓸𝓰𝓻𝓪𝓶𝓪𝓬𝓲𝓸𝓷** 💻 Mexico.
+**𝓔𝓼𝓽𝓾𝓭𝓲𝓸 𝓟𝓻𝓸𝓰𝓻𝓪𝓶𝓪𝓬𝓲𝓸𝓷** 💻🫧 Mexico.
  <!-- Currently, I'm a Community Team Member 🙍🏽‍♂️ [@CallmeMehdi](https://github.com/CallmeMehdi), Kaggler 👨🏽‍💻 [@Kaggle](https://www.kaggle.com/mehdimabrouki), and an Artificial Intelligence intern 👨🏽‍💼.  -->
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 **ᴰᵃᵗᵒˢ ˢᵒᵇʳᵉ ᵐⁱ!**
 
-- 👨🏽‍💻 Actualmente estudio Programacion.
-- 🌱 Cada dia aprendo cosas nuevas. 
-- 🤔 Me encataria aprender mas lenguajes de Programacion.
-- 💼 Soy muy amable.
-- 💬 Si necesitas ayuda,puedes contactarme !
-- 📫 Enviame correo a isabellasanchez1410@gmail.com
+- ☁️Actualmente estudio Programacion.
+- 🫧 Cada dia aprendo cosas nuevas. 
+- ☁️ Me encataria aprender mas lenguajes de Programacion.
+- 🫧 Soy muy amable.
+- 💐 Si necesitas ayuda,puedes contactarme !
+- ☁️ Enviame correo a isabellasanchez1410@gmail.com
 
 
 **Lenguajes:**  
