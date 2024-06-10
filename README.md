@@ -24,7 +24,6 @@ Here are some ideas to get you started:
 <a href=https://www.facebook.com/profile.php?id=100048761541645>
   <img align="left" alt="Zamran's Facebook" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-<img src="https://komarev.com/ghpvc/?username=is4bell5color=blueviolet" align="left">
 
 
 
