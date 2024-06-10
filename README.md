@@ -1,20 +1,4 @@
 # Isabella
-<!-- <h3 title="hola"> Soy Isaaaa! 🌷</h3> -->
-
-<!--
-**is4bell5/is4bell5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <h3 title="hola"> holaaa💗,𝐒𝐨𝐲 𝐈𝐬𝐚𝐚𝐚🌷!</h3>
 
 </a>
@@ -45,18 +29,18 @@ Here are some ideas to get you started:
 - 📫 Enviame correo a isabellasanchez1410@gmail.com
 
 
-**Languages and Tools:**  
+**Lenguajes:**  
 
 <pag alinear="izquierda">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,java,php,html,mysql,github " />
 
-<img src="https://github-readme-stats.vercel.app/api?username=ZamranxD&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Zamran's GitHub Stats">
+<img src="https://pics.prcm.jp/0789059a314db/69070232/png/69070232_220x123.png">
 
-⭐️ From [ZamranxD](https://github.com/ZamranxD)
+⭐️ From Is4bell5
 
 
 ----
-Credit: [ZamranxD](https://github.com/ZamranxD)
+𝓒𝓾𝓲𝓭𝓪𝓽𝓮 𝓵𝓲𝓷𝓭@
 
 Last Edited on: 23/09/2020
